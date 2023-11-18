@@ -1,1 +1,1 @@
-# Forbes-Billionaires-Analysis-2022-PowerBI-Dashboard
+# Forbes Insights 2022
